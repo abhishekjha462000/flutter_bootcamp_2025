@@ -5,6 +5,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:weatherapp/additional_item_info.dart';
 import 'package:weatherapp/hourly_forecast_item.dart';
+import 'package:weatherapp/secrets.dart';
 
 class WeatherApp extends StatefulWidget {
   const WeatherApp({super.key});
@@ -26,7 +27,7 @@ class WeatherAppState extends State<WeatherApp> {
 
   Future<Map<String, dynamic>> fetchWeatherData() async {
     var url = Uri.parse(
-        'https://api.openweathermap.org/data/2.5/forecast?q=Gwalior,India&APPID=4c47d6753e500fdd511e2b0b4391ea85');
+        'https://api.openweathermap.org/data/2.5/forecast?q=Gwalior,India&APPID=$API_KEY');
     try {
       var response = await http.get(url);
 
