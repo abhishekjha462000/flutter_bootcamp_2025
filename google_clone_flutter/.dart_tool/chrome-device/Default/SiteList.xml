@@ -1,0 +1,3243 @@
+<?xml version="1.0"?>
+<site-list version="10.3">
+ <site url="061dspoapp.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.1.137.9:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.1.137.9:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.123.23.151:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.123.23.151:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.123.23.174:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.123.23.174:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.143.41.72:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.143.41.72:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.146.156.58">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.165.83.140:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.165.83.140:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.192.51.23:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.192.51.23:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.193.4.9:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.193.4.9:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.194.128.220">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.2.40.9:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.2.40.9:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.20.15.20:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.20.15.20:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.22.10.25:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.22.10.25:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.5.1.138:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.5.1.138:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.5.117.9:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.5.117.9:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.64.213.24:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.64.213.24:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.64.214.28:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.64.214.28:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.65.65.44:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="10.65.65.44:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="5033.cchintegrator.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="7201portal.cchintegrator.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="7201service.cchintegrator.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="aabs.ey.net/arms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="abc-vdd.ey.net/abcvdd">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="abc-vddtr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="access.idaas.gslb.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="accessfed.idaas.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="accessfed.idaasuat.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="accessidp.idaas.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="accessidp.idaas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="accessidp.idaas.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="accessidp.idaasuat.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="acemwmpcpisq01.ey.net/billingtax">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="acpdevn.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="acs.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="administration.myeyweb.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool-apac.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool-apac.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool-emeia.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool-emeia.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool-mercury-apac.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool-mercury.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool-training.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="advisorysqtool.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="alm.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="almcorteva155.saas.microfocus.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="almey.saas.microfocus.com/qcbin">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="altqa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="altuat.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="aml.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="amltr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="apac1.onesourcetax.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="apdc.cchintegrator.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="apdc1.cchintegrator.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="apdcstaging.cchintegrator.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="apdcweb2.cchintegrator.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="apx02.ey.net/asiapac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="arbsasmeyccs01.sa.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="ard-dev.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="ard-newfy.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ard-qa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="atldev.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="au04.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="authenticator.pingone.eu/pingid">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="avconference.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="balloura.ey.net/om">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="bancohoras.sa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="baswareip-uki.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="baswarepm-uki.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bd.ey.net/eng">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bd.ey.net/inarr">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bd.ey.net/inclientmaster">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bd.ey.net/infa">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bd.ey.net/sqt">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="betteryou.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="bgts.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bpc.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bpr-asiapac.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bpr-asiapac.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bpr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bpr.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="brsaopleyccp01.sa.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="btctaxintegrator.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="btctaxintegrator.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ca114.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="can.eyd.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="care-eqr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="care-eqr.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="care-vio.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="care-vio.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="ccaaclaims.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ccaaclaimsuat.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cch.com.au">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cci.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-americas-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-americas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-americas.ey.net/administration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-dv.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-dv2.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-emeia-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-emeia.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-emeia.ey.net/administration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-jp-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-jp.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-jp.ey.net/administration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-sg-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-sg.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cereas-sg.ey.net/administration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cfehomepage.eycan.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chairmansvaluesaward.ey.net">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chdalvapgdnccx1.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="chinataxpayroll-dr10.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr11.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr12.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr13.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr14.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr15.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr16.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr17.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr2.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr5.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr6.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr7.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr8.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="chinataxpayroll-dr9.ey.net/platinumhrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cidespace.fr.eurw.ey.net">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cis-billing.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cis-falcon.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cis-reports.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cisbillingtool.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cisreports.eure.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cmt.ey.net/upsidecontract4">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cn29.ey.com.cn">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cn41.ey.com.cn">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cneleave.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cnhonvmpsrse101/reports_inst2">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cnshavapgdnccx2.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="collectnow-dev.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="collectnow-qa.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="collectnow-uat.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="collectnow.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="compliancecheck.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="complianceuat.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="connectionscheck.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="consultation-dev.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="consultation-qa.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="contenteybr.sa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-americas-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-americas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-americas.ey.net/interaction">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-dv.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-dv2.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-emeia-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-emeia.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-emeia.ey.net/interaction">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-jp-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-jp.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-jp.ey.net/interaction">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-sg-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-sg.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm-sg.ey.net/interaction">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="crm.ca.na.ey.net/crm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="datafeedsmonitor.sa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="de-digitaldirect.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="de-tasdigitalexperience-uat.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="de.eyd.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="de51ueyi.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="defrakvpcrmbat1.eurw.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="defranleyecc01.eurw.ey.net/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="defranleyecc01.eurw.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="defranleyecc02.eurw.ey.net/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="defranleyecc02.eurw.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="defravmpbaswb05.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="defravmpiniweb1.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="defrnvmpcisrs01.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="defrnvmupacwb01.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="defrnvmupacwb01.eyua.net/qms2">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="defrnvmupacwb01.eyua.net/sort">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="demo1a.caliberuniversal.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="dmt.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="dnb.onelogin.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="dnbhoovers.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="doc-automation.ey.net/app">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="doc-automation.eyua.net/app">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="drrtax.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eayuper412.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="emeia-aml.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="emeia-amltr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="engagementpublisher.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="epay-cn.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="epf.na.ey.net">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="epropertytax.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ereview-discovery.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ernstyounguk.adobeconnect.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="exgrates.sa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ey-enterprise.regis-co.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="ey-home.ey.net/wps/myportal/externalsources">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ey-learn.thinktank.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ey.eynavigate.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="ey.stage.regis-co.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="ey.webex.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eyalm.eyua.net:8443/qcbin">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eycanvas-ru.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvas-trn.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-ae.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-au.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-az.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-ca.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-ch.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-cn.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-de.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-eun.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-fr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-in.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-jp.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-kr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-kz.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-lu.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-mc.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-ph.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-pl.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-ru.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-sg.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-th.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-tr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-trn-de.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-trn-sg.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-trn-us.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-tw.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-ua.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-uk.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-us.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycanvasengagement-usgov.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eycmsdevauth.iweb.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eydc-global-stg-temp.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eydc-global-stg-temp.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eygdas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="eyglms6.learning.services.conduent.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eygsl.plateau.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="eyhome-dv.eydev.net/wps/myportal/externalsources">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eyhome-ua.eyua.net/wps/myportal/externalsources">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eyleads-ua.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eyleads.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eylearning.webex.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eyonline.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="eypayroll.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eypayroll.pl">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eyship.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eyship.ey.com/agileelite/projects">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eyship.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eysurvey.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eysurveytool-uat.ey.com">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="eytem.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eytemtest.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="fact.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="factforms.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="falcon.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="fbsnet.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="feacomp.pacrim.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="fedsso.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="finalsettlement.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="find.ey.com.cn">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="frdigitalmailbox.ey.net/appnet">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gaaitadmin.iweb.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="gaapchecklist.iweb.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcobriefsmemos.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcollect-dev1.eydev.net/app-ui">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="gcollect-pp2.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="gcollect-qa1.eyqa.net/app-ui">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="gcollectnow.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcollectnow.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcollectnow.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmaccountview-americas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmaccountview-emeia.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmaccountview-jp.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmaccountview-sg.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmreport-americas-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmreport-americas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmreport-emeia-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmreport-emeia.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmreport-sg-ua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gcrmreport-sg.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gdncompliancemanager.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gdsassuranceprofiles.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gdses.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisacc-lnx.iweb.ey.com/psp/f1ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisacc-lnx.iweb.ey.com/psp/f2ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisacc-lnx.iweb.ey.com/psp/f3ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisacc-lnx.iweb.ey.com/psp/fcac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbiam.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbiam.ey.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbiam.ey.net/boe/bi/custom.jsp">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbiap.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbiap.ey.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbiap.ey.net/boe/bi/custom.jsp">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbibm.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbibm.eyua.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbieu.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbieu.ey.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbieu.ey.net/boe/bi/custom.jsp">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbo.eyqa.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbo.eyqa.net/boe/cmc">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbo.eyua.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisbo.eyua.net/boe/cmc">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisua.iweb.ey.com/psp/f1ua">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisua.iweb.ey.com/psp/f2ua">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisua.iweb.ey.com/psp/f3ua">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfisua.iweb.ey.com/psp/fcua">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfs-dv.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfs-qa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfs-ua.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gfs.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="giirs.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="giirs.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="giirs.us.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gisadmin.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gisreports.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gisreports.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gisuat.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="glms-admin.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="glms.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="globaloneadmin-emeia-stg.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="globaloneadmin-emeia.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="globaloneadmin-stg.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="globaloneadmin.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="globaloneadmindev2.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="globaloneadminqa2.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="globaloneadminuat1.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="goct.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="goctdev.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="goctqa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="goctuat.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="gosservicedesk.us.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gosystemrs.fasttax.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gpat.us.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gpip.ey.net">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gsp.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gspqa.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gspua.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gsr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gss-uat.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gss.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gssamericas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gssapac.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gssconnect.ey.net/smart/exam">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-bm.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-dev.ey.net/americas">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-dev.ey.net/apac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-dev.ey.net/emeia">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-qa.ey.net/americas">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-qa.ey.net/apac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-qa.ey.net/emeia">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-t-minus.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-uat.ey.net/americas">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-uat.ey.net/apac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte-uat.ey.net/emeia">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte2asiapac.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gte2europe.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gteamericas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gteapac.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gteeurope.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gteusreporting.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gteusreporting.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gttdev.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gttqa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="hbspevents.webex.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hcstats.uk.eurw.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="home-americas.ey.net/wps/myportal/externalsources">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hrconnection.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hrkiosk.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hrmssso.iweb.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hrpoliciesandprograms.na.ey.net">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="humancapital.sa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="iclick.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ifoundation.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ifoundationqa.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/bankreco">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/bgts">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/dfms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/eng">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/eypayroll">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/fema">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/fsaa">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/gtacassessment">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inallocationjv">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inapqs">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inarms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inarr">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inbob">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inclientmaster">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inebill">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inep">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inese">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/infa">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/infars">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inghms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/iniedn">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/ininvoice">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/initps">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/initpts">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inmentormentee">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inoprs">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inoprsemd">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inp2p">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inpayroll">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inqrm">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/intaxproof">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/intdscertificate">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/inwfa">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/nas">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/obs">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/oms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/partnerecertificate">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/pnbfy18">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/scms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/speakup">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="in.ey.net/tdsc">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inadr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inapqs.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inarchive.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="independence.myeyweb.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="indirectexp.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="infars.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="infema.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="infirc.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ingfisreports.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inghms.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ingteapprovals.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="ingurrmpapptst1.mea.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ingurrmptweb01.mea.ey.net/lndblog">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ingurvmpapp01.mea.ey.net/eng">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ingurvmpblmwb1.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ingurvmpgstapp1/gstnavigator">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ingurvmprepapp1.mea.ey.net/gfisreport">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ingurvmuapptst1.eyua.net:8876">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inmobilitydashboard.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="innas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inonlineeval.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inoprs.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inoprsemd.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inoprsforex.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inpartnercertificate.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inpnbweb.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inqa.ey.com/tps">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inretainupload.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="insaf.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="inscms.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="insct.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="insourceexchange.thomson.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="insqt.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="intaxproof.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="intdsc.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="intellinex.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/aimadvisory/sitepages">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/artrackermenatax">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/ckd">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/deviationapproval">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/dzitrulingdb">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/ereview">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/eykpdm1">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/eykpdmqa1">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/eykpmo">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/marketsaccelerator/siteassets">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="internal.ey.net/sites/rirequestandworkflowmanagement">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/rirequesttracker">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="internal.ey.net/sites/vatimpactassessment">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="intps.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="intrivapuccx02.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="inworkorder.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="iweb.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokrmpwpap1">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokrmpwpap1.jpn.pacrim.ey.net:6001/rfid-docmng">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokvmdnoiwb01.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokvmpcensq1.pacrim.ey.net/centralweb-eng">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokvmplibsq1.pacrim.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokvmpnoiwb01.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokvmpnoiwb02.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokvmucpyapp1.jpn.pacrim.ey.net/cws32/cws">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokvmucpyapp1.jpn.pacrim.ey.net/cws32se/cws">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeyap49.jpn.pacrim.ey.net/cws32/cws">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeyap49.jpn.pacrim.ey.net/cws32se/cws">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb12.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb39.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb40.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb47.jpn.pacrim.ey.net/ssms">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb49.jpn.pacrim.ey.net/ssms">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb50.jpn.pacrim.ey.net/mailaddressmaker">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb51.jpn.pacrim.ey.net/mailaddressmaker">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb60.jpn.pacrim.ey.net/fssys">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb60.jpn.pacrim.ey.net/fssys/logmanage">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb60.jpn.pacrim.ey.net/fssys/multiplemanage">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb60.jpn.pacrim.ey.net/fssys/optionalgroup">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb60.jpn.pacrim.ey.net/fssys/singlemanage">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb61.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb61.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb62.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb62.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb63.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb64.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jptokymeynlb76.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb85.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb87.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb95.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jptokymeynlb97.jpn.pacrim.ey.net/gfiscommon">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="jpvirvmpnoiwb4.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jpvirvmpnoiwb5.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jpvirvmpnoiwb6.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="k2u.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="lan-gprs.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="lan-gprsqa.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="lan-gprsuat.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="las-gprs.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="las-gprsqa.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="las-gprsuat.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="lbtstats.uk.eurw.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="legacyglms.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="libraryone.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="libraryoneuat.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="localhost:49152">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="login.microsoftonline.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="login.partner.microsoftonline.cn">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="manualaccess.ey.net/manualacl">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="matrix.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="matrixwebsurvey.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mbam-ea.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mbam-us.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mcd.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mcd.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mcd.eyua.net/wdfy">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mercury-qj3.ey.net:52100/boe">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mercury-tj2.ey.net:52100/boe">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mesd.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mmtbm.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mmtdev.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="molms.intellinex.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mpl.iweb.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="my-competencies.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mybusiness-qa.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mybusinessbi.ey.net/pr">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mypay.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mypay.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mypeoplelink.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mypeoplelink.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="myprofile.myeyweb.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mywebapps.de.eurw.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="nalog.ru">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="newfileservice.ch.eurw.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="noisys.jpn.pacrim.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="norma.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="norma.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="normafec.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="normafssa.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="normafssa.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="normalux.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="normalux.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="odyssee.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="odyssee.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ogs-emeia-stg.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ogs-emeia.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ogs-stg.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ogsdev2.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ogsqa2.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ogsuat1.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="omsuatest.iweb.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="onboard.dnb.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="onesourcelogin.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="onesourcelogin.eu">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="onesourcesso.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="onesourcetax.com">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="p2p.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pacetr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pacetr.ey.net/qms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/abnc">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/abncqms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/abncrendering">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/aml">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/aml2">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/aml3">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/aml4">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/aml5">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/amlqms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/amlrendering">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/amlrendering2">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/amlrendering3">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/amlrendering4">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/amlrendering5">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/pace4">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="paceuat.eyua.net/pat1">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/pat2">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/pat3">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/patqms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/patrendering1">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/patrendering2">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paceuat.eyua.net/patrendering3">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="par.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="parca.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="parcau.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="parqa.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pat.ey.net/pat">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pat.ey.net/patqms">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pat.ey.net/patrendering">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pattr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paygen-new.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="paygen-new.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pbtfix.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="performancemanager5.successfactors.eu">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="pficanalyzer.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pharos.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pl-lrs.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="portalone.eurw.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="portaloneadmin.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="portaloneadminprd.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="portaloneadminuat.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ppe061dspoapp.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pr-apac.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="prapac.pacrim.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="prebillingtool.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="prebillingtool.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="prebillingtool2.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ptcstats.uk.eurw.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="retain.pacrim.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="retainwebv2.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="rmscamtrack.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="rumosvmpcisrs01.eure.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="rumosvmpcisrs02.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="rumosvmpciswb01.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="secureweb.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence-apac.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence-apac.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence-emeia.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence-emeia.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence-mercury.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence-training.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence.eydev.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sequence.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sf.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="sgeleave-epay.ey.net/hrms/base">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sgeleave-epay.ey.net/hrms/non-eysg-office">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sgeleave-epay.ey.net/hrms/web">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sgsingvpcrmbat1.pacrim.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sgsinvmpamswb01.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sgsinvmpcrywb01.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sgsinvmpjcrmba1.pacrim.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="share.ey.com.cn">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sites.ey.com/_forms">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="sites.ey.com/sites/eymail">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="sites.ey.com/sites/innovationgds">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="sites.ey.com/sites/modernoutlook">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="sites.ey.com/sites/otr/sitepages">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sites.ey.com/sites/travis">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sites.ey.com/sites/travis/businessoperations">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sites.ey.com/sites/unassigned/sitepages">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="siwa.sa.ey.net/site">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="smarttax.eurw.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sort.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="sortlegacy.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tasdigitalexperience-uat.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tat.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tax.arms.us.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="taxerr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="taxintegrator.cch.com.au">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="techinfo.jpn.pacrim.ey.net/redirectforchromium">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="thanku-vn.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ti-production.anz.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tms.eyua.net/treasury">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="trtasso.thomson.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="tw-uatcardif.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="twtaxpayroll-bbank.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="twtaxpayroll-cardif.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="twtaxpayroll-citi.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="twtaxpayroll-momo.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uk.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uklonbleyecc01.uk.eurw.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="uklonbleyecc01.uk.eurw.ey.net:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="uklonmleyecc01.uk.eurw.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="uklonmleyecc01.uk.eurw.ey.net:8445/desktop">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="us.eyd.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="us5tsvapccs01.ey.com:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="us60.eyd.ey.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usbtc.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usdalrmpwitrec1.ey.net">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usdalvapccs01.ey.com:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="usdalvmppoabo03.ey.net/cypressweb/components">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usdssvapccp01.ey.com:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="usfwtvmppoabo02.ey.net/cypressweb">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usinbaipccpri01.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="usinbaipccpri01.ey.net:8445/desktop">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uspilvmpgtrwb01.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uspilvmppoabo01.ey.net/cypressweb">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uspilvmugtrwb01.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uspilvmupoabo01.eyua.net/cypressweb">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecavpcrmbat1.us.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvapeccccx1.ey.com:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="ussecvmdcseapp1.eydev.net/cseries-admin">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdcseapp2.eydev.net/cseries">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdcseapp2.eydev.net/cseries-admin">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb01.eydev.net/gbs4.0.g1ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb01.eydev.net/gbs4.0.g2ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb01.eydev.net/gbs4.0.g3ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb02.eydev.net/gbs4.0.g1ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb02.eydev.net/gbs4.0.g2ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb02.eydev.net/gbs4.0.g3ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb02.eydev.net/pdr">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb03.eydev.net/gbs4.0.g1ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb03.eydev.net/gbs4.0.g2ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb03.eydev.net/gbs4.0.g3ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmdgblwb03.eydev.net/pdrarchive">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmpcseapp1.ey.net:444/cseries-admin">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmpcseapp1.ey.net:444/cseries/ux">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmpcseapp2.ey.net/cseries">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmpcseapp2.ey.net/cseries-admin">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmppoabo01.ey.net/cypressweb/components">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqcseapp1.eyqa.net:444/cseries-admin">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqcseapp2.eyqa.net/cseries">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqcseapp2.eyqa.net/cseries-admin">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgfsce01.eyqa.net/edmars/edmarsweb">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgfsrq01.eyqa.net/request_app">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgfswb01.eyqa.net/clientlookup/eycrt">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgfsws01.eyqa.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgfsws01.eyqa.net/boe/cmc">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgfsws02.eyqa.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb02.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb02.eyqa.net/americas">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb02.eyqa.net/apac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb02.eyqa.net/emeia1">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb03.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb04.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb05.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb06.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb07.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb08.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb09.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb10.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgtewb11.eyqa.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgteweb1.eyqa.net/americas">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgteweb1.eyqa.net/apac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgteweb1.eyqa.net/config">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmqgteweb1.eyqa.net/emeia">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmubmgfsw1.eyua.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmucseapp2.eyua.net/cseries">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmucseapp2.eyua.net/cseries-admin">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfsce01.eyua.net/cedricedmars/edmarsweb">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfspd01.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb01.eyua.net/gbs.uar1">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb01.eyua.net/gbs.uar1.configuration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb01.eyua.net/gbs4.0.g0gl.configuration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb01.eyua.net/gbs4.0.g1ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb01.eyua.net/gbs4.0.g1ac.configuration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb01.eyua.net/gbs4.0.g2ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb01.eyua.net/gbs4.0.g2ac.configuration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb01.eyua.net/gbs4.0.g3ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb01.eyua.net/gbs4.0.g3ac.configuration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb02.eyua.net/gbs.uar2">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb02.eyua.net/gbs.uar2.configuration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb02.eyua.net/gbs4.0.g1ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb02.eyua.net/gbs4.0.g2ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb02.eyua.net/gbs4.0.g3ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb03.eyua.net/gbs.uar3">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb03.eyua.net/gbs.uar3.configuration">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb03.eyua.net/gbs4.0.g1ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb03.eyua.net/gbs4.0.g2ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb03.eyua.net/gbs4.0.g3ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb04.eyua.net/gbs4.0.g1ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb04.eyua.net/gbs4.0.g2ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfswb04.eyua.net/gbs4.0.g3ac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfsws01.eyua.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugfsws02.eyua.net/boe/bi">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugteweb1.eyua.net/americas">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugteweb1.eyua.net/apac">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugteweb1.eyua.net/config">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmugteweb1.eyua.net/emeia">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ussecvmupoabo03.eyua.net/cypressweb/components">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usterepmgr.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ustereporting.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ustereporting.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="vacation.myeyweb.ca.na.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="web.lexis.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="workspace-americas.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="workspace-americas.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="workspace-apac.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="workspace-apac.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="workspace-emeia.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="workspace-emeia.eyua.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.compliance.eycan.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.ey.com">
+  <compat-mode>IE11</compat-mode>
+  <open-in>MSEdge</open-in>
+ </site>
+ <site url="www.ey.com/ul/en/accountinglink">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.eyindiaalumni.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="xfapp01.ey.net">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="zameyjohauccx01.ey.net:8444/cuicui">
+  <compat-mode>IE11</compat-mode>
+  <open-in>NEUTRAL</open-in>
+ </site>
+ <site url="zeikaikeidb.com">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+</site-list>
